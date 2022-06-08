@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 1 ,
+        "name" : " Dark Jean ",
+        "link" : "https://th.bing.com/th/id/OIP.tstq0wyjbX0fhzKjwAqRMQHaKl?w=185&h=264&c=7&r=0&o=5&pid=1.7",
+        "Prize": 550,
+        "link1": "https://th.bing.com/th/id/OIP.tstq0wyjbX0fhzKjwAqRMQHaKl?w=185&h=264&c=7&r=0&o=5&pid=1.7"
+    },
+
+    {
+        "id" : 2,
+        "name" : " Light Jean ",
+        "link" : "https://th.bing.com/th/id/OIP.tstq0wyjbX0fhzKjwAqRMQHaKl?w=185&h=264&c=7&r=0&o=5&pid=1.7",
+        "Prize": 450,
+        "link1": "https://th.bing.com/th/id/OIP.tstq0wyjbX0fhzKjwAqRMQHaKl?w=185&h=264&c=7&r=0&o=5&pid=1.7"
+    },
+
+    {
+        "id" : 3,
+        "name" : " White Jean ",
+        "link" : "https://th.bing.com/th/id/OIP.52USYymtZUq3bTPFs6kTwAHaKl?w=185&h=264&c=7&r=0&o=5&pid=1.7",
+        "Prize": 650,
+        "link1": "https://th.bing.com/th/id/OIP.tstq0wyjbX0fhzKjwAqRMQHaKl?w=185&h=264&c=7&r=0&o=5&pid=1.7"
+
+    },
+
+    {
+        "id" : 4,
+        "name" : "Black Jean",
+        "link" : "https://th.bing.com/th/id/OIP.52USYymtZUq3bTPFs6kTwAHaKl?w=185&h=264&c=7&r=0&o=5&pid=1.7",
+        "Prize": 750,
+        "link1": "https://th.bing.com/th/id/OIP.tstq0wyjbX0fhzKjwAqRMQHaKl?w=185&h=264&c=7&r=0&o=5&pid=1.7"
+
+    }
+]
